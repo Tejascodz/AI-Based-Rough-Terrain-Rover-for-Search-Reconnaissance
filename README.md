@@ -158,8 +158,14 @@ Search and rescue, disaster-area assessment, hazardous site inspection and plane
 
 ## Recognition
 
-* Rank 11 of 1,054 teams across SAARC, Vishwakarma Awards 2025 (Smart Mobility)
-* Presented at CICCS-25
+* **Vishwakarma Awards 2025, Smart Mobility:** semi-finalist, Rank 11 of 1,054 teams across SAARC.
+* **CICCS-25:** presented at the First International Conference on Intelligent Computing and Communication
+  Systems (IEEE Bangalore Section), 19 September 2025.
+
+<p align="center">
+  <img src="docs/images/certificate_vishwakarma2025.jpg" alt="Vishwakarma Awards 2025 certificate: Tejas S, semi-finalist, Rank 11, Smart Mobility" width="49%">
+  <img src="docs/images/certificate_ciccs25.jpg" alt="CICCS-25 certificate of presentation for the AI-based rough terrain rover" width="49%">
+</p>
 
 ## Author
 
